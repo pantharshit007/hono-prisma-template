@@ -1,0 +1,10 @@
+# ----------------------------------------------------------------------------- 
+# Databse:Docker
+# ----------------------------------------------------------------------------- 
+DATABASE_URL="postgresql://postgres:mysecretpassword@localhost:3333/postgres"
+DATABASE_URL_UNPOOLED="postgresql://postgres:mysecretpassword@localhost:3333/postgres"
+
+#------------------------------------------------------------------------------
+# Environment
+#------------------------------------------------------------------------------
+ENVIRONMENT="development"
